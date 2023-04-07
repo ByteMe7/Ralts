@@ -1,0 +1,9 @@
+{
+  "name": "basic-discord-example",
+  "author": "ByteMe7",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "discord.js": "^14.9.0"
+  }
+}
